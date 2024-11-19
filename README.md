@@ -3,5 +3,5 @@
 - 👀 I’m good at C++,C,C#,Java,Python,Ubuntu,Windows
 - 🌱 I’m currently learning Unity 3D && Unreal Engine
 - 💞️ I’m looking to collaborate on Backend Development,Server Maintenance and Client Development
-- 📫 How to reach me —— 2608627672@qq.com
+- 📫 How to reach me —— My email is 2608627672@qq.com
 - If I can help you, I hope you can give me a star or a fork.
