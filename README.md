@@ -1,8 +1,8 @@
-- 👋 Hi, I'm @FuZoe
+﻿- 👋 Hi, I'm @FuZoe
 - I am a college student.
 - 👀 I’m good at C++,C,C#,Java,Python,Ubuntu,Windows...
-- 🌱 I’m currently learning Unity 3D && Unreal Engine(5.5)
+- 🌱 I’m currently learning Unity 3D && Unreal Engine
 - 💞️ I’m looking to collaborate on Backend Development,Server Maintenance and Client Development
-- 📫 How to reach me —— My email is 2608627672@qq.com
-- My hobby is elementary math.
-- If I can help you, I hope you can give me a star or a fork.
+- 📫 How to reach me —— My email is below
+
+>  2608627672@qq.com
