@@ -8,3 +8,5 @@
 >  2608627672@qq.com
 or
 > fxq4533@outlook.com
+
+![Zoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuzoe&show_icons=true&theme=tokyonight)
