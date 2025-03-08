@@ -1,5 +1,5 @@
 ﻿- 👋 Hi, I'm @FuZoe , a university student.
-- 👀 I’m good at C++,C,C#,Java,Unity3D ;
+- 👀 I often use C++,C,C#,Java,Unity3D ;
 - 👀 I also use Python,JavaScript,Linux/Docker,Vue3 ...
 - 🌱I’m currently learning Unreal Engine &&  Mybatis...
 - 💞️ I’m looking to collaborate on Backend Development,Server Maintenance and Client Development
