@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Backend Development, Client Development and Embedded Development
 - 📫 How to reach me —— My email is below
 
->  2608627672@qq.com
+>  thestarandcloud@foxmail.com
 or
 > fxq4533@outlook.com
 
