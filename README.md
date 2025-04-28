@@ -2,7 +2,7 @@
 - 👀 I often use C++,C,C#,Java,Unity3D ;
 - 👀 I also use Python,JavaScript,Linux/Docker,Vue3 ...
 - 🌱I’m currently learning Unreal Engine &&  Mybatis...
-- 💞️ I’m looking to collaborate on Backend Development,Server Maintenance and Client Development
+- 💞️ I’m looking to collaborate on Backend Development, Client Development and Embedded Development
 - 📫 How to reach me —— My email is below
 
 >  2608627672@qq.com
