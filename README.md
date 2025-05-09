@@ -6,7 +6,5 @@
 - 📫 How to reach me —— My email is below
 
 >  thestarandcloud@foxmail.com
-or
-> fxq4533@outlook.com
 
 ![Zoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuzoe&show_icons=true&theme=tokyonight)
