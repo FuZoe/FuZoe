@@ -3,7 +3,7 @@
 - 👀 I also use Java,Python,JavaScript,Unity3D,Vue3,Mybatis ...
 - 🌱I’m currently learning Unreal Engine  ...
 - 💞️ I’m looking to collaborate on Backend Development, Client Development and Embedded Development
-- 📫 How to reach me —— My email is below
+- 📫 How to reach me —— My email is below(Feel free to ask my CV)
 
 >  thestarandcloud@foxmail.com
 
