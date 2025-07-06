@@ -1,5 +1,5 @@
 ﻿- 👋 Hi, I'm @FuZoe , a university student.
-- 👀 I often use C++,C,C#,Linux/Docker ;
+- 👀 I often use C++,C,C#,Linux/Docker,Qt5 ;
 - 👀 I also use Java,Python,JavaScript,Unity3D,Vue3,Mybatis,Android ...
 - 🌱I’m currently learning Unreal Engine  ...
 - 💞️ I’m looking to collaborate on Backend Development, Client Development and Embedded Development
