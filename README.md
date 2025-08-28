@@ -4,7 +4,7 @@
   - **Embedded/Desktop:** C++ & Qt (Qt Quick & Qt Widget), C (Keil & STM), Linux/Docker
   - **Game Development:** C# (Unity3D), C++ (Unreal Engine)
   - **Backend/Database:** Java (nginx), SQL (SQLite & MySQL), JS & HTML, Python
-  - **Multimedia:** FFmpeg
+  - **Multimedia:** FFmpeg, GStreamer
     
 - 💡 **A Natural Advantage:** My strong background in **mathematics** helps me solve complex problems and optimize algorithms more effectively.
 
