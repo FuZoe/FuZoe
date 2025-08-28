@@ -1,7 +1,7 @@
 ﻿- 👋 Hi, I'm @FuZoe , a programmer.
  
 - 💻 **My Toolkit:**
-  - **Embedded/Desktop:** C++ & Qt (Qt Quick & Qt Widget), C (Keil & STM32), Linux/Docker
+  - **Embedded/Desktop:** C++ & Qt (Qt Quick & Qt Widget), C (Keil & STM), Linux/Docker
   - **Game Development:** C# (Unity3D), C++ (Unreal Engine)
   - **Backend/Database:** Java (nginx), SQL (SQLite & MySQL), JS & HTML, Python
   - **Multimedia:** FFmpeg
