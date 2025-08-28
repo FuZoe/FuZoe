@@ -12,7 +12,8 @@
   
 - 💞️ **Looking to Collaborate On:** I’m eager to contribute to  Embedded Development / Software Development / backend Development  projects
 
-  ### 📂 My Projects & Contributions
+
+### 📂 My Projects & Contributions
 
 Here are some of my projects, categorized for better navigation.
 
@@ -25,7 +26,7 @@ These are the projects I'm most proud of and actively developing.
 | **[STM32单片机学习笔记](https://github.com/FuZoe/Embedded-Development-NoteBook/tree/STM32)** | 包含了可运行Demo的STM32学习笔记 | C,Keil,STM32, ... | 持续记录中 🚀 |
 
 <details>
-<summary>⚡ **My other Learning Notebooks**</summary>
+<summary>⚡ My other Learning Notebooks </summary>
 These are smaller projects I use for learning new technologies.
 
 | Project Name | Description | Key Tech | Status |
@@ -38,8 +39,7 @@ These are smaller projects I use for learning new technologies.
 </details>
 
 <details>
-<summary>🧪 **Past & Experimental Projects** </summary>
-_Click to expand and see more._
+<summary>🧪 Past & Experimental Projects </summary>
 
 | Project Name | Description | Key Tech | Status |
 | :--- | :--- | :--- | :--- |
