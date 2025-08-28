@@ -8,9 +8,9 @@
     
 - 💡 **A Natural Advantage:** My strong background in **mathematics** helps me solve complex problems and optimize algorithms more effectively.
 
-- 🌱 **Currently Learning:** Compilation technology optimization.
+- 🌱 **Currently Learning:** I'm deepening my skills in compilation technology optimization.
   
-- 💞️ **Looking to Collaborate On:** Embedded Development / Software Development / backend Development
+- 💞️ **Looking to Collaborate On:** I’m eager to contribute to  Embedded Development / Software Development / backend Development  projects
   
 - 📫 **How to reach me:** My email is below (Feel free to ask for my CV).
 
