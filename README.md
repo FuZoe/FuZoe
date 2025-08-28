@@ -21,8 +21,8 @@ These are the projects I'm most proud of and actively developing.
 
 | Project Name | Description | Key Tech | Status |
 | :--- | :--- | :--- | :--- |
-| **[嵌入式开发学习笔记](https://github.com/FuZoe/Embedded-Development-NoteBook)** | 一个完善的、带索引的嵌入式学习笔记 | C++, Qt, ... | 持续记录中 🚀 |
-| **[温度传感器](https://github.com/FuZoe/DS18B20)** | 使用STM32F1开发板与DS18B20温度传感器连接，实现读取温度功能 | C,Keil,STM32, ... | 已完成 ✅ |
+| **[Qt嵌入式开发学习笔记](https://github.com/FuZoe/Embedded-Development-NoteBook/tree/main)** | 一个带索引的嵌入式Qt学习笔记 | C++, Qt, ... | 持续记录中 🚀 |
+| **[STM32单片机学习笔记](https://github.com/FuZoe/Embedded-Development-NoteBook/tree/STM32)** | 包含了可运行Demo的STM32学习笔记 | C,Keil,STM32, ... | 持续记录中 🚀 |
 
 <details>
 <summary>⚡ **My other Learning Notebooks**</summary>
