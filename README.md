@@ -21,7 +21,7 @@ These are the projects I'm most proud of and actively developing.
 
 | Project Name | Description | Key Tech | Status |
 | :--- | :--- | :--- | :--- |
-| **[Qt嵌入式开发学习笔记](https://github.com/FuZoe/Embedded-Development-NoteBook/tree/main)** | 一个带索引的嵌入式Qt学习笔记 | C++, Qt, ... | 持续记录中 🚀 |
+| **[Qt嵌入式开发学习笔记](https://github.com/FuZoe/Embedded-Development-NoteBook/tree/desktop)** | 一个带索引的嵌入式Qt学习笔记 | C++, Qt, ... | 持续记录中 🚀 |
 | **[STM32单片机学习笔记](https://github.com/FuZoe/Embedded-Development-NoteBook/tree/STM32)** | 包含了可运行Demo的STM32学习笔记 | C,Keil,STM32, ... | 持续记录中 🚀 |
 
 <details>
