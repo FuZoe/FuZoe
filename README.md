@@ -38,7 +38,7 @@ These are smaller projects I use for learning new technologies.
 </details>
 
 <details>
-<summary>🧪 **Past & Experimental Projects**</summary>
+<summary>🧪 **Past & Experimental Projects** </summary>
 _Click to expand and see more._
 
 | Project Name | Description | Key Tech | Status |
