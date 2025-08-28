@@ -1,6 +1,6 @@
 ﻿- 👋 Hi, I'm @FuZoe , a programmer.
  
-- 💻 **Technical Stacks & Languages:**
+- 💻 **My Toolkit:**
   - **Embedded/Desktop:** C++ & Qt (Qt Quick & Qt Widget), C (Keil & STM32), Linux/Docker
   - **Game Development:** C# (Unity3D), C++ (Unreal Engine)
   - **Backend/Database:** Java (nginx), SQL (SQLite & MySQL), JS & HTML, Python
