@@ -11,6 +11,44 @@
 - 🌱 **Currently Learning:** I'm deepening my skills in compilation technology optimization.
   
 - 💞️ **Looking to Collaborate On:** I’m eager to contribute to  Embedded Development / Software Development / backend Development  projects
+
+  ### 📂 My Projects & Contributions
+
+Here are some of my projects, categorized for better navigation.
+
+#### ⭐ **Core Projects**
+These are the projects I'm most proud of and actively developing.
+
+| Project Name | Description | Key Tech | Status |
+| :--- | :--- | :--- | :--- |
+| **[嵌入式开发学习笔记](https://github.com/FuZoe/Embedded-Development-NoteBook)** | 一个完善的、带索引的嵌入式学习笔记 | C++, Qt, ... | 持续记录中 🚀 |
+| **[温度传感器](https://github.com/FuZoe/DS18B20)** | 使用STM32F1开发板与DS18B20温度传感器连接，实现读取温度功能 | C,Keil,STM32, ... | 已完成 ✅ |
+
+<details>
+<summary>⚡ **My other Learning Notebooks**</summary>
+These are smaller projects I use for learning new technologies.
+
+| Project Name | Description | Key Tech | Status |
+| :--- | :--- | :--- | :--- |
+| **[Qt音视频流输出-学习笔记](https://github.com/FuZoe/qtAudioAndVideoStreamOutput)** |完善的、带索引的学习笔记，包含FFmpeg和GStreamer的相关记录 | Qt | 已完成 ✅ |
+| **[C++那些事](https://github.com/FuZoe/CPlusPlusThings)** |从入门到进阶的仓库 | C++ | 已完成 ✅ |
+| **[计算机网络的相关实验](https://github.com/FuZoe/computer-network-experiment)** | 计算机网络的相关实验 | C++, 计算机网络 | 已完成 ✅ |
+| **[机器学习相关实验](https://github.com/FuZoe/Machine-Learning-Experiments)** | 机器学习相关实验 | 机器学习, Python | 已完成 ✅ |
+
+</details>
+
+<details>
+<summary>🧪 **Past & Experimental Projects**</summary>
+_Click to expand and see more._
+
+| Project Name | Description | Key Tech | Status |
+| :--- | :--- | :--- | :--- |
+| **[FarmGame2D](https://github.com/FuZoe/FarmGame2D)** | Unity3D开发的2D开放式农场游戏 | C#, Unity3D | 停止维护 ❌ |
+| **[OpenVPN](https://github.com/FuZoe/openvpn)** | 一次OpenVPN架设的尝试 | Linux, 计算机网络 | 已完成 ✅ |
+
+</details>
+
+---
   
 - 📫 **How to reach me:** My email is below (Feel free to ask for my CV).
 
