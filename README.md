@@ -5,8 +5,8 @@
   - **Game Development:** C# (Unity3D), C++ (Unreal Engine)
   - **Backend/Database:** Java (nginx), SQL (SQLite & MySQL), JS & HTML, Python
   - **Multimedia:** FFmpeg
-
-- 🧠 **Specialties:** I'm also good at **mathematics**.
+    
+- 💡 **A Natural Advantage:** My strong background in **mathematics** helps me solve complex problems and optimize algorithms more effectively.
 
 - 🌱 **Currently Learning:** Compilation technology optimization.
   
