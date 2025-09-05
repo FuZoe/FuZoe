@@ -54,6 +54,17 @@ These are smaller projects I use for learning new technologies.
 
 >  thestarandcloud@foxmail.com
 
+</table>
+<table>
+    <tr>
+        <td>
+
 ![Zoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuzoe&show_icons=true&theme=dark)
+        </td>
+        <td>
 
 ![Zoe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FuZoe&layout=compact)
+        </td>
+    </tr>
+
+</table>
