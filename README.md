@@ -63,7 +63,7 @@ These are smaller projects I use for learning new technologies.
         </td>
         <td>
 
-![Zoe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FuZoe&layout=compact)
+![Zoe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FuZoe&theme=dark)
         </td>
     </tr>
 
