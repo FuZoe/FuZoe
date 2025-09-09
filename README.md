@@ -23,8 +23,8 @@ These are the projects I'm most proud of and actively developing.
 
 | Project Name | Description | Key Tech | Status |
 | :--- | :--- | :--- | :--- |
-| **[Qt嵌入式开发学习笔记](https://github.com/FuZoe/Embedded-Development-NoteBook/tree/desktop)** | 一个带索引的嵌入式Qt学习笔记 | C++, Qt, ... | 持续记录中 🚀 |
-| **[STM32单片机学习笔记](https://github.com/FuZoe/Embedded-Development-NoteBook/tree/STM32)** | 包含了可运行Demo的STM32学习笔记 | C,Keil,STM32, ... | 持续记录中 🚀 |
+| **[Embedded-Development-NoteBook](https://github.com/FuZoe/Embedded-Development-NoteBook/tree/desktop)** | An embedded Qt study note with index | C++, Qt, ... | Continuously recording 🚀 |
+| **[STM32 MCU Study Notes](https://github.com/FuZoe/Embedded-Development-NoteBook/tree/STM32)** | Contains STM32 study notes that can run Demo | C,Keil,STM32, ... | Continuously recording 🚀 |
 
 <details>
 <summary>⚡ My other Learning Notebooks </summary>
@@ -32,10 +32,10 @@ These are smaller projects I use for learning new technologies.
 
 | Project Name | Description | Key Tech | Status |
 | :--- | :--- | :--- | :--- |
-| **[Qt音视频流输出-学习笔记](https://github.com/FuZoe/qtAudioAndVideoStreamOutput)** |完善的、带索引的学习笔记，包含FFmpeg和GStreamer的相关记录 | Qt | 已完成 ✅ |
-| **[C++那些事](https://github.com/FuZoe/CPlusPlusThings)** |从入门到进阶的仓库 | C++ | 已完成 ✅ |
-| **[计算机网络的相关实验](https://github.com/FuZoe/computer-network-experiment)** | 计算机网络的相关实验 | C++, 计算机网络 | 已完成 ✅ |
-| **[机器学习相关实验](https://github.com/FuZoe/Machine-Learning-Experiments)** | 机器学习相关实验 | 机器学习, Python | 已完成 ✅ |
+| **[Qt audio and video stream output-study notes](https://github.com/FuZoe/qtAudioAndVideoStreamOutput)** |A comprehensive and well-organized set of learning notes, including information on FFmpeg and GStreamer. | Qt | Completed ✅ |
+| **[C++ Things](https://github.com/FuZoe/CPlusPlusThings)** |C++ from entry-level to advanced warehouses | C++ | Completed ✅ |
+| **[Computer network experiments](https://github.com/FuZoe/computer-network-experiment)** | Computer network related experiments | C++, Computer Network | Completed ✅ |
+| **[Machine learning experiments](https://github.com/FuZoe/Machine-Learning-Experiments)** | Machine learning related experiments | Machine Learning, Python | Completed ✅ |
 
 </details>
 
@@ -44,8 +44,8 @@ These are smaller projects I use for learning new technologies.
 
 | Project Name | Description | Key Tech | Status |
 | :--- | :--- | :--- | :--- |
-| **[FarmGame2D](https://github.com/FuZoe/FarmGame2D)** | Unity3D开发的2D开放式农场游戏 | C#, Unity3D | 停止维护 ❌ |
-| **[OpenVPN](https://github.com/FuZoe/openvpn)** | 一次OpenVPN架设的尝试 | Linux, 计算机网络 | 已完成 ✅ |
+| **[FarmGame2D](https://github.com/FuZoe/FarmGame2D)** | A 2D open-world farming game developed using Unity3D | C#, Unity3D | Stop maintenance ❌ |
+| **[OpenVPN](https://github.com/FuZoe/openvpn)** | An attempt to set up OpenVPN | Linux, Computer Network | Completed ✅ |
 
 </details>
 
