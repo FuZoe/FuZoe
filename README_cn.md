@@ -1,4 +1,4 @@
-﻿- 👋 Hi, 这里是程序员 @FuZoe .
+﻿- 👋 Hi, 这里是程序员 @FuZoe .  [Switch to EN Page](https://github.com/FuZoe)
  
 - 💻 **我的技术栈:**
   - **嵌入式/桌面:** C++ & Qt (Qt Quick & Qt Widget), C (Keil & STM), Linux/Docker
