@@ -1,5 +1,5 @@
 
-- 👋 Hi, I'm @FuZoe , a programmer. **[点我切换到中文页面](README_cn.md)**
+- 👋 Hi, I'm @FuZoe , a programmer. **[点我切换到中文介绍页面](README_cn.md)**
  
 - 💻 **My Toolkit:**
   - **Embedded/Desktop:** C++ & Qt (Qt Quick & Qt Widget), C (Keil & STM), Linux/Docker
