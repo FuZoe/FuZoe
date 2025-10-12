@@ -49,6 +49,7 @@ These are smaller projects I use for learning new technologies.
 
 </details>
 
+[私有仓库页](https://github.com/FuZoe/Private)
 ---
   
 - 📫 **How to reach me:** My email is below (Feel free to ask for my CV).
