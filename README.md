@@ -11,7 +11,7 @@
 
 - 🌱 **Currently Learning:** I'm deepening my skills in compilation technology optimization.
   
-- 💞️ **Looking to Collaborate On:** I’m eager to contribute to  Embedded Development / Software Development / backend Development  projects
+- 💞️ **Looking to Collaborate On:** I’m eager to contribute to  Embedded Development / Software Development / Game Development  projects
 
 
 ### 📂 My Projects & Contributions
