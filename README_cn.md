@@ -22,7 +22,7 @@
 
 | 项目名 | 描述 | 主要技术栈 | 状态 |
 | :--- | :--- | :--- | :--- |
-| **[Qt嵌入式开发代码仓库Q(https://github.com/FuZoe/Embedded-Development-NoteBook/tree/desktop)** | 一个带索引的嵌入式Qt代码仓库 | C++, Qt, ... | 持续记录中 🚀 |
+| **[Qt嵌入式开发代码仓库](https://github.com/FuZoe/Embedded-Development-NoteBook/tree/desktop)** | 一个带索引的嵌入式Qt代码仓库 | C++, Qt, ... | 持续记录中 🚀 |
 
 <details>
 <summary>⚡ 我的其它代码仓库 </summary>
