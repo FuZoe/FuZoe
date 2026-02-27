@@ -49,13 +49,13 @@ These are smaller projects I use for learning new technologies.
 
 </details>
 
-[私有仓库页](https://github.com/FuZoe/Private)
+[Private Page](https://github.com/FuZoe/Private)
 
 ---
   
-- 📫 **How to reach me:** My email is below (Feel free to ask for my CV).
+- 📫 **How to reach me:** My email is below.
 
->  thestarandcloud@foxmail.com
+>  alfie013798@gmail.com
 
 </table>
 <table>
