@@ -24,7 +24,7 @@ These are the projects I'm most proud of and actively developing.
 | Project Name | Description | Key Tech | Status |
 | :--- | :--- | :--- | :--- |
 | **[Embedded-Development-NoteBook](https://github.com/FuZoe/Embedded-Development-NoteBook/tree/desktop)** | An embedded Qt study note with index | C++, Qt, ... | Continuously recording 🚀 |
-| **[STM32 MCU Study Notes](https://github.com/FuZoe/Embedded-Development-NoteBook/tree/STM32)** | Contains STM32 study notes that can run Demo | C,Keil,STM32, ... | Continuously recording 🚀 |
+| **[PD-Hunter](https://github.com/FuZoe/PD-Hunter)** | AI-powered bounty intelligence dashboard for ProjectDiscovery repositories. | Go, Langchain ... | See [**here**](https://fuzoe.github.io/PD-Hunter/static/dashboard.html) 🚀 |
 
 <details>
 <summary>⚡ My other Learning Notebooks </summary>
