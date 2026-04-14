@@ -62,7 +62,7 @@
 
 | 项目名 | 描述 | 主要技术体系 | 状态 |
 | :--- | :--- | :--- | :--- |
-| **[PD-Hunter](https://github.com/FuZoe/PD-Hunter)** | AI驱动下的自动化漏洞情报雷达面板 | `Go`, `LangChain` | 积极维护中 🚀 |
+| **[PD-Hunter](https://github.com/FuZoe/PD-Hunter)** | AI驱动下的自动化漏洞情报雷达面板 | `Go`, `LangChain` | [这是一个在线项目，直接点击查看](https://fuzoe.github.io/PD-Hunter/) |
 
 <br>
 
