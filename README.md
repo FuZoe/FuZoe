@@ -61,7 +61,7 @@
 
 | Project Name | Description | Key Tech | Status |
 | :--- | :--- | :--- | :--- |
-| **[PD-Hunter](https://github.com/FuZoe/PD-Hunter)** | AI-powered bounty intelligence dashboard for PD repos | `Go`, `Langchain` | Active (See [here](https://fuzoe.github.io/PD-Hunter/static/dashboard.html)) 🚀 |
+| **[PD-Hunter](https://github.com/FuZoe/PD-Hunter)** | AI-powered bounty intelligence dashboard for PD repos | `Go`, `Langchain` | Active (See [here](https://fuzoe.github.io/PD-Hunter/)) 🚀 |
 
 <br>
 
