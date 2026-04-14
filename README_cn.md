@@ -3,7 +3,7 @@
   <p>
     <a href="README.md"><b>🇺🇸 Switch to EN Page</b></a>
   </p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Programmer;Embedded+%26+Desktop+Development;Game+%26+Backend+Development;Strong+Mathematics+Background" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Programmer;AI+Agent+Development;Software+Development;Model+Training+and+Inference;Strong+Mathematics+Background" alt="Typing SVG" />
 </div>
 
 ---
@@ -12,7 +12,7 @@
 
 - 💡 **我的天然优势:** 我在**数学**方面有深厚底蕴，解决复杂问题得心应手。
 - 🌱 **最近正在学习:** 正在深化我**编译技术优化**方面的技能。
-- 💞️ **期望合作:** 我渴望为**嵌入式开发**、**软件开发**、**游戏开发**相关的开源或商业项目做出贡献。
+- 💞️ **期望合作:** 我渴望为**AI智能体开发**、**软件开发**、**模型训练和推理**相关的开源或商业项目做出贡献。
 - 📫 **联系方式:** [fxq45@qq.com](mailto:fxq45@qq.com) （请随时索要我的简历）。
 
 ---

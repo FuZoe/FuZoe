@@ -3,7 +3,7 @@
   <p>
     <a href="README_cn.md"><b>🇨🇳 点我切换到中文介绍页面</b></a>
   </p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Programmer;Embedded+%26+Desktop+Development;Game+%26+Backend+Development;Strong+Mathematics+Background" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Programmer;AI+Agent+Development;Software+Development;Model+Training+and+Inference;Strong+Mathematics+Background" alt="Typing SVG" />
 </div>
 
 ---
@@ -12,7 +12,7 @@
 
 - 💡 **A Natural Advantage:** My strong background in **mathematics** helps me solve complex problems and optimize algorithms more effectively.
 - 🌱 **Currently Learning:** Deepening my skills in **compilation technology optimization**.
-- 💞️ **Looking to Collaborate On:** I’m eager to contribute to **Embedded Development**, **Software Development**, and **Game Development** projects.
+- 💞️ **Looking to Collaborate On:** I’m eager to contribute to **AI Agent Development**, **Software Development**, **Model Training and Inference** projects.
 - 📫 **How to reach me:** [alfie013798@gmail.com](mailto:alfie013798@gmail.com)
 
 ---
