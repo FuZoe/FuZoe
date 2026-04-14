@@ -18,6 +18,13 @@
 ---
 
 ### 🛠️ My Toolkit
+#### **AI**
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=yolo&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white)
+![Ascend](https://img.shields.io/badge/Ascend-000000?style=for-the-badge&logo=ascend&logoColor=white)
 
 #### **Embedded/Desktop**
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -49,36 +56,29 @@
 ### 📂 My Projects & Contributions
 
 #### ⭐ Core Projects
+
 *These are the projects I'm most proud of and actively developing.*
 
 | Project Name | Description | Key Tech | Status |
 | :--- | :--- | :--- | :--- |
-| **[Embedded-Development-NoteBook](https://github.com/FuZoe/Embedded-Development-NoteBook/tree/desktop)** | An embedded Qt study note with index | `C++`, `Qt` | Continuously recording 🚀 |
 | **[PD-Hunter](https://github.com/FuZoe/PD-Hunter)** | AI-powered bounty intelligence dashboard for PD repos | `Go`, `Langchain` | Active (See [here](https://fuzoe.github.io/PD-Hunter/static/dashboard.html)) 🚀 |
 
 <br>
 
+
 <details>
-<summary>⚡ <b>My other Learning Notebooks</b></summary>
+<summary>🧪 <b>Learning Notebooks & Experimental Projects</b></summary>
 <br>
 
 *These are smaller projects I use for learning new technologies.*
 
 | Project Name | Description | Key Tech | Status |
 | :--- | :--- | :--- | :--- |
+| **[Embedded-Development-NoteBook](https://github.com/FuZoe/Embedded-Development-NoteBook/tree/desktop)** | An embedded Qt study note with index | `C++`, `Qt` | Continuously recording 🚀 |
 | **[Qt audio and video stream output-study notes](https://github.com/FuZoe/qtAudioAndVideoStreamOutput)** | Learning notes including FFmpeg and GStreamer. | `Qt` | Completed ✅ |
 | **[C++ Things](https://github.com/FuZoe/CPlusPlusThings)** | C++ from entry-level to advanced warehouses | `C++` | Completed ✅ |
 | **[Computer network experiments](https://github.com/FuZoe/computer-network-experiment)** | Computer network related experiments | `C++`, `Network` | Completed ✅ |
 | **[Machine learning experiments](https://github.com/FuZoe/Machine-Learning-Experiments)** | Machine learning related experiments | `ML`, `Python` | Completed ✅ |
-
-</details>
-
-<details>
-<summary>🧪 <b>Past & Experimental Projects</b></summary>
-<br>
-
-| Project Name | Description | Key Tech | Status |
-| :--- | :--- | :--- | :--- |
 | **[FarmGame2D](https://github.com/FuZoe/FarmGame2D)** | A 2D open-world farming game developed using Unity3D | `C#`, `Unity3D` | Stopped ❌ |
 | **[OpenVPN](https://github.com/FuZoe/openvpn)** | An attempt to set up OpenVPN | `Linux`, `Network` | Completed ✅ |
 

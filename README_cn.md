@@ -18,6 +18,13 @@
 ---
 
 ### 🛠️ 我的技术栈
+#### **AI**
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=yolo&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white)
+![Ascend](https://img.shields.io/badge/Ascend-000000?style=for-the-badge&logo=ascend&logoColor=white)
 
 #### **嵌入式 / 桌面端**
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -55,31 +62,24 @@
 
 | 项目名 | 描述 | 主要技术体系 | 状态 |
 | :--- | :--- | :--- | :--- |
-| **[Qt嵌入式开发代码仓库](https://github.com/FuZoe/Embedded-Development-NoteBook/tree/desktop)** | 一个带索引的嵌入式Qt学习笔记与代码 | `C++`, `Qt` | 持续记录中 🚀 |
 | **[PD-Hunter](https://github.com/FuZoe/PD-Hunter)** | AI驱动下的自动化漏洞情报雷达面板 | `Go`, `LangChain` | 积极维护中 🚀 |
 
 <br>
 
 <details>
-<summary>⚡ <b>我的其它代码仓库</b></summary>
+<summary>🧪 <b>学习笔记与实验性项目</b></summary>
 <br>
+
+*用于学习新技术的小型项目和过去的实验项目。*
 
 | 项目名 | 描述 | 主要技术体系 | 状态 |
 | :--- | :--- | :--- | :--- |
+| **[Qt嵌入式开发代码仓库](https://github.com/FuZoe/Embedded-Development-NoteBook/tree/desktop)** | 一个带索引的嵌入式Qt学习笔记与代码 | `C++`, `Qt` | 持续记录中 🚀 |
 | **[STM32单片机代码仓库](https://github.com/FuZoe/Embedded-Development-NoteBook/tree/STM32)** | 包含了可运行Demo的STM32学习笔记 | `C`, `STM32` | 持续记录中 🚀 |
 | **[Qt音视频流输出与学习](https://github.com/FuZoe/qtAudioAndVideoStreamOutput)**| 完善且带索引的学习笔记 (含FFmpeg与GStreamer) | `Qt` | 持续记录中 🚀 |
 | **[C++那些事](https://github.com/FuZoe/CPlusPlusThings)** |从入门到进阶的代码仓库 | `C++` | 已完成 ✅ |
 | **[计算机网络的相关实验](https://github.com/FuZoe/computer-network-experiment)**| 计算机网络的相关实验 | `C++`, `网络` | 已完成 ✅ |
 | **[机器学习相关实验](https://github.com/FuZoe/Machine-Learning-Experiments)** | 机器学习相关实验 | `ML`, `Python`| 已完成 ✅ |
-
-</details>
-
-<details>
-<summary>🧪 <b>过去的和实验的项目</b></summary>
-<br>
-
-| 项目名 | 描述 | 主要技术体系 | 状态 |
-| :--- | :--- | :--- | :--- |
 | **[FarmGame2D](https://github.com/FuZoe/FarmGame2D)** | Unity3D开发的2D开放式农场游戏 | `C#`, `Unity3D` | 停止维护 ❌ |
 | **[OpenVPN](https://github.com/FuZoe/openvpn)** | 一次OpenVPN架设的尝试体验 | `Linux`, `网络` | 已完成 ✅ |
 
