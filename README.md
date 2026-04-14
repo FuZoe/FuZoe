@@ -1,73 +1,103 @@
+<div align="center">
+  <h1>👋 Hi there! I'm @FuZoe</h1>
+  <p>
+    <a href="README_cn.md"><b>🇨🇳 点我切换到中文介绍页面</b></a>
+  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Programmer;Embedded+%26+Desktop+Development;Game+%26+Backend+Development;Strong+Mathematics+Background" alt="Typing SVG" />
+</div>
 
-- 👋 Hi, I'm @FuZoe , a programmer. **[点我切换到中文介绍页面](README_cn.md)**
- 
-- 💻 **My Toolkit:**
-  - **Embedded/Desktop:** <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> (Qt Quick & Qt Widget),  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> (Keil & STM),  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  - **Game Development:** <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
-  - **Backend/Database:** <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  - **Multimedia:** FFmpeg, GStreamer
-    
+---
+
+### 👨‍💻 About Me
+
 - 💡 **A Natural Advantage:** My strong background in **mathematics** helps me solve complex problems and optimize algorithms more effectively.
+- 🌱 **Currently Learning:** Deepening my skills in **compilation technology optimization**.
+- 💞️ **Looking to Collaborate On:** I’m eager to contribute to **Embedded Development**, **Software Development**, and **Game Development** projects.
+- 📫 **How to reach me:** [alfie013798@gmail.com](mailto:alfie013798@gmail.com)
 
-- 🌱 **Currently Learning:** I'm deepening my skills in compilation technology optimization.
-  
-- 💞️ **Looking to Collaborate On:** I’m eager to contribute to  Embedded Development / Software Development / Game Development  projects
+---
 
+### 🛠️ My Toolkit
+
+#### **Embedded/Desktop**
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+#### **Game Development**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+#### **Backend/Database**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br>
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### **Multimedia**
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white) ![GStreamer](https://img.shields.io/badge/GStreamer-1A202C?style=for-the-badge&logo=gstreamer&logoColor=white)
+
+---
 
 ### 📂 My Projects & Contributions
 
-Here are some of my projects, categorized for better navigation.
-
-#### ⭐ **Core Projects**
-These are the projects I'm most proud of and actively developing.
+#### ⭐ Core Projects
+*These are the projects I'm most proud of and actively developing.*
 
 | Project Name | Description | Key Tech | Status |
 | :--- | :--- | :--- | :--- |
-| **[Embedded-Development-NoteBook](https://github.com/FuZoe/Embedded-Development-NoteBook/tree/desktop)** | An embedded Qt study note with index | C++, Qt, ... | Continuously recording 🚀 |
-| **[PD-Hunter](https://github.com/FuZoe/PD-Hunter)** | AI-powered bounty intelligence dashboard for ProjectDiscovery repositories. | Go, Langchain ... | See [**here**](https://fuzoe.github.io/PD-Hunter/static/dashboard.html) 🚀 |
+| **[Embedded-Development-NoteBook](https://github.com/FuZoe/Embedded-Development-NoteBook/tree/desktop)** | An embedded Qt study note with index | `C++`, `Qt` | Continuously recording 🚀 |
+| **[PD-Hunter](https://github.com/FuZoe/PD-Hunter)** | AI-powered bounty intelligence dashboard for PD repos | `Go`, `Langchain` | Active (See [here](https://fuzoe.github.io/PD-Hunter/static/dashboard.html)) 🚀 |
+
+<br>
 
 <details>
-<summary>⚡ My other Learning Notebooks </summary>
-These are smaller projects I use for learning new technologies.
+<summary>⚡ <b>My other Learning Notebooks</b></summary>
+<br>
+
+*These are smaller projects I use for learning new technologies.*
 
 | Project Name | Description | Key Tech | Status |
 | :--- | :--- | :--- | :--- |
-| **[Qt audio and video stream output-study notes](https://github.com/FuZoe/qtAudioAndVideoStreamOutput)** |A comprehensive and well-organized set of learning notes, including information on FFmpeg and GStreamer. | Qt | Completed ✅ |
-| **[C++ Things](https://github.com/FuZoe/CPlusPlusThings)** |C++ from entry-level to advanced warehouses | C++ | Completed ✅ |
-| **[Computer network experiments](https://github.com/FuZoe/computer-network-experiment)** | Computer network related experiments | C++, Computer Network | Completed ✅ |
-| **[Machine learning experiments](https://github.com/FuZoe/Machine-Learning-Experiments)** | Machine learning related experiments | Machine Learning, Python | Completed ✅ |
+| **[Qt audio and video stream output-study notes](https://github.com/FuZoe/qtAudioAndVideoStreamOutput)** | Learning notes including FFmpeg and GStreamer. | `Qt` | Completed ✅ |
+| **[C++ Things](https://github.com/FuZoe/CPlusPlusThings)** | C++ from entry-level to advanced warehouses | `C++` | Completed ✅ |
+| **[Computer network experiments](https://github.com/FuZoe/computer-network-experiment)** | Computer network related experiments | `C++`, `Network` | Completed ✅ |
+| **[Machine learning experiments](https://github.com/FuZoe/Machine-Learning-Experiments)** | Machine learning related experiments | `ML`, `Python` | Completed ✅ |
 
 </details>
 
 <details>
-<summary>🧪 Past & Experimental Projects </summary>
+<summary>🧪 <b>Past & Experimental Projects</b></summary>
+<br>
 
 | Project Name | Description | Key Tech | Status |
 | :--- | :--- | :--- | :--- |
-| **[FarmGame2D](https://github.com/FuZoe/FarmGame2D)** | A 2D open-world farming game developed using Unity3D | C#, Unity3D | Stop maintenance ❌ |
-| **[OpenVPN](https://github.com/FuZoe/openvpn)** | An attempt to set up OpenVPN | Linux, Computer Network | Completed ✅ |
+| **[FarmGame2D](https://github.com/FuZoe/FarmGame2D)** | A 2D open-world farming game developed using Unity3D | `C#`, `Unity3D` | Stopped ❌ |
+| **[OpenVPN](https://github.com/FuZoe/openvpn)** | An attempt to set up OpenVPN | `Linux`, `Network` | Completed ✅ |
 
 </details>
 
-[Private Page](https://github.com/FuZoe/Private)
+<br>
+<div align="center">
+  <a href="https://github.com/FuZoe/Private">🔒 Private Page</a>
+</div>
 
 ---
-  
-- 📫 **How to reach me:** My email is below.
 
->  alfie013798@gmail.com
+### 📊 GitHub Stats
 
-</table>
-<table>
-    <tr>
-        <td>
-
-![Zoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuzoe&show_icons=true&theme=dark)
-        </td>
-        <td>
-
-![Zoe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FuZoe&layout=compact&theme=dark)
-        </td>
-    </tr>
-
-</table>
+<div align="center">
+  <a href="https://github.com/fuzoe">
+    <img src="https://github-readme-stats.vercel.app/api?username=fuzoe&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/fuzoe">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuZoe&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
+  </a>
+</div>
