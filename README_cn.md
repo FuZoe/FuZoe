@@ -96,9 +96,9 @@
 
 <div align="center">
   <a href="https://github.com/fuzoe">
-    <img src="https://github-readme-stats.vercel.app/api?username=fuzoe&show_icons=true&theme=radical&hide_border=true&locale=cn" height="165" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-one-tau-61.vercel.app/api?username=fuzoe&show_icons=true&theme=radical&hide_border=true&locale=cn" height="165" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/fuzoe">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuZoe&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
+    <img src="https://github-readme-stats-one-tau-61.vercel.app/api/top-langs/?username=FuZoe&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
   </a>
 </div>
