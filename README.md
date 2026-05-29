@@ -63,6 +63,12 @@
 | :--- | :--- | :--- | :--- |
 | **[PD-Hunter](https://github.com/FuZoe/PD-Hunter)** | AI-powered bounty intelligence dashboard for PD repos | `Go`, `Langchain` | Active (See [here](https://fuzoe.github.io/PD-Hunter/)) 🚀 |
 
+#### Projects I led/were highly involved in
+
+| Project Name | Description | Key Tech | Status |
+| :--- | :--- | :--- | :--- |
+| **[FuRTS_demo](https://github.com/FuZoe/FuRTS_demo)** | A white-box test game similar to StarCraft | `HTML`, `JS` | Under development 🚧 |
+
 <br>
 
 
