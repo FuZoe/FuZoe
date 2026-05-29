@@ -64,6 +64,12 @@
 | :--- | :--- | :--- | :--- |
 | **[PD-Hunter](https://github.com/FuZoe/PD-Hunter)** | AI驱动下的自动化漏洞情报雷达面板 | `Go`, `LangChain` | [这是一个在线项目，直接点击查看](https://fuzoe.github.io/PD-Hunter/) |
 
+#### 我主导/高度参与的项目
+
+| 项目名 | 描述 | 主要技术体系 | 状态 |
+| :--- | :--- | :--- | :--- |
+| **[FuRTS_demo](https://github.com/FuZoe/FuRTS_demo)** | 一款类似星际争霸的白盒测试游戏 | `HTML`, `JS` | 开发中 🚧 |
+
 <br>
 
 <details>
