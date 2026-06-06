@@ -91,9 +91,7 @@
 </details>
 
 <br>
-<div align="center">
-  <a href="https://github.com/FuZoe/Private">🔒 Private Page</a>
-</div>
+
 
 ---
 
