@@ -13,7 +13,7 @@
 - 💡 **A Natural Advantage:** My strong background in **mathematics** helps me solve complex problems and optimize algorithms more effectively.
 - 🌱 **Currently Learning:** Deepening my skills in **compilation technology optimization**.
 - 💞️ **Looking to Collaborate On:** I’m eager to contribute to **AI Agent Development**, **Software Development**, **Model Training and Inference** projects.
-- 📫 **How to reach me:** [alfie013798@gmail.com](mailto:alfie013798@gmail.com)
+- 📫 **How to reach me:** [fuzoe0@gmail.com](mailto:fuzoe0@gmail.com)
 
 ---
 
